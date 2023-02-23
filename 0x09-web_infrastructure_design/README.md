@@ -9,5 +9,5 @@ system.
 Files in this project contain links to each respective whiteboard diagram.
 
 ### Authors of this poject are:
-Favour Onuoha <dovo.fav@aol.com>
-Alice Wainaina
+#### Favour Onuoha <dovo.fav@aol.com>
+#### Alice Wainaina
