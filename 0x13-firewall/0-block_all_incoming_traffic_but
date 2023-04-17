@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+# check ufw status,set it up and specify the rules
+
+sudo ufw status
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+#enable ufw
