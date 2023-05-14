@@ -51,7 +51,7 @@ moving forward, please keep the following in mind.
 and could have been addressed earlier had the app been tested.
 
 * Status monitoring. Enable some uptime-monitoring service such as
-[UptimeRobot](./https://uptimerobot.com/) to alert instantly upon outage of the website.
+https://uptimerobot.com to alert instantly upon outage of the website.
 
 This error will never occur again, because we're programmers, and we never make
 errors! :wink:
